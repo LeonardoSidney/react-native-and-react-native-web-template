@@ -1,3 +1,8 @@
+# Introduction
+This is a code sample of what needs to be done to use webpack with react-native-web in the original react-native template. Why did I do this? I don't know. I'm not a web programmer.
+
+# Original
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
